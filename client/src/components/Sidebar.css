@@ -1,0 +1,46 @@
+.ham-icon {
+    font-size: 30px;
+}
+
+.sidebar {
+    height: 100%;
+    padding-top: 20px;
+    background-color: #2b2b2b !important;
+    color: white !important;
+}
+
+.btn-close {
+    background-color: grey !important;
+    border: none !important;
+}
+
+.head {
+    border-bottom: 2px solid white;
+}
+
+.nav-item {
+    border-bottom: 2px solid lightgrey;
+    margin-bottom: 10px;
+    padding: 5px 0;
+    background-color: #242424;
+    transition: 0.5s ease-in-out;
+}
+
+.nav-item a {
+    color: #c2cc00 !important;
+}
+
+.nav-heading {
+    background-color: #2b2b2b;
+    font-size: 24px;
+    border-bottom: none !important;
+}
+
+.nav-heading a {
+    color: white !important;
+}
+
+.nav-item:hover {
+    background-color: #363636;
+}
+
